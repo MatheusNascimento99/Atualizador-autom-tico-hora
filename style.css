@@ -1,0 +1,113 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(246, 143, 143);
+}
+
+/*ESTILIZAÇÃO MANHÃ   */
+
+H1{
+    color: rgb(254, 254, 254);
+    text-align: center;
+    margin-top: 30px;
+}
+
+section div{
+    font-size: 25px;
+    font-weight: 700;
+    padding-top: 15px;
+    background-color:antiquewhite;
+    border-radius: 15px;
+    text-align: center;
+    width: 60%;
+    margin-left: 20%;
+}
+
+
+
+#foto{
+    background-color:antiquewhite;
+    text-align: center;
+    width: 60%;
+    height: 400px;
+    margin-left: 20%;
+    border-radius: 15px;
+}
+
+
+
+#imagem{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+/*ESTILIZAÇÃO TARDE   */
+
+#tardetitle{
+    color: rgb(254, 254, 254);
+    text-align: center;
+    margin-top: 30px;
+}
+
+.tarde{
+    background-color:antiquewhite;
+    text-align: center;
+    margin-top: 30px;
+    width: 60%;
+    height: 400px;
+    margin-left: 20%;
+    border-radius: 15px;
+}
+
+.tarde p{
+    margin-bottom:  15px;
+    font-size: 25px;
+    font-weight: 700;
+    padding-top: 15px;
+    background-color:antiquewhite;
+    border-radius: 15px;
+}
+
+
+
+.tarde img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+/*ESTILIZAÇÃO NOITE   */
+
+#noitetitle{
+    color: rgb(254, 254, 254);
+    text-align: center;
+    margin-top: 30px;
+}
+
+.noite{
+    background-color:antiquewhite;
+    text-align: center;
+    margin-top: 30px;
+    width: 60%;
+    height: 400px;
+    margin-left: 20%;
+    border-radius: 15px;
+}
+
+.noite p{
+    margin-bottom:  15px;
+    font-size: 25px;
+    font-weight: 700;
+    padding-top: 15px;
+    background-color:antiquewhite;
+    border-radius: 15px;
+}
+
+
+
+.noite img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
